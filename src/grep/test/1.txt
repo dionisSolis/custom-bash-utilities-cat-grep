@@ -1,0 +1,10 @@
+world
+heLo worlD
+this is a test
+aaa
+a{3}
+bbbaaaccc
+12345
+abc{2}def
+grep is fun
+vl

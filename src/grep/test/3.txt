@@ -1,0 +1,4 @@
+this is another file
+with some lines
+and more patterns
+like aaa and a{3}

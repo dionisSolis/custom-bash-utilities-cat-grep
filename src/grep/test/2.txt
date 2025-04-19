@@ -1,0 +1,5 @@
+example text
+a{3} is not aaa
+pattern matching
+abcabc
+xyz
